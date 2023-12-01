@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="cct">
+    <file>imgs/tecnoparque.png</file>
+  </qresource>
+</RCC>

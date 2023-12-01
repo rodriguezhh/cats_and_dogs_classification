@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="cct">
+    <file>imgs/LOGO UIS_PNG.png</file>
+  </qresource>
+</RCC>
